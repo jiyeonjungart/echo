@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="312" height="486" viewBox="384 486 312 486" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Phone</title>
+  <g stroke="#2E2925" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="408" y="510" width="264" height="438" rx="35" stroke-width="3.5" />
+    <rect x="421" y="524" width="238" height="410" rx="24" stroke-width="2" />
+    <path d="M510 539H555 M508 919H572" stroke-width="3" />
+    <circle cx="569" cy="539" r="2.5" stroke-width="1.4" />
+    <path d="M405 603V645 M675 600V657" stroke-width="2.5" />
+  </g>
+</svg>
